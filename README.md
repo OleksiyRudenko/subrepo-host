@@ -2,6 +2,10 @@
 
 This repo hosts a sub-repo to test git-subrepo workflow
 
+See also [Summary](#summary) below
+
+## STR
+
 The steps below numbering is consistent across both
 [subrepo-host](https://github.com/OleksiyRudenko/subrepo-host)
 and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
@@ -121,3 +125,10 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 ```
 
 (37) Add changes and `git commit -m "Add STR 35, 36, 37 (host repo only)"`
+
+## Summary
+
+[subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
+contains commits that
+ - were added to `repoB` (`subrepo-repo-b`) directly
+ - were added to `host-repo` and touched `subrepoB/`
