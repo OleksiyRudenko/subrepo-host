@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/OleksiyRudenko/subrepo-repo-b.git
 	branch = master
-	commit = 0469ab53d9a29532807493517f03240519e7d95d
-	parent = 9b4e017fc85a62429199ab9b67ccbab39a6646e5
+	commit = 75842efcba71f61cb3b35a64bcdc81c4b682b383
+	parent = bead290a152b18ad8e96dd2b334392c4070ab91e
 	cmdver = 0.3.1
