@@ -43,3 +43,7 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 (18) `git subrepo push subrepoB -b patch01`
 
 (23) Add changes and `git commit -m "Add STR 23 (host repo only)"`
+
+(24) `git subrepo pull subrepoB`
+
+(25) Add changes and `git commit -m "Add STR 24, 25 (host repo only)"`
