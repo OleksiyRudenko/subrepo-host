@@ -8,10 +8,10 @@ The steps below numbering is consistent across both
 [subrepo-host](https://github.com/OleksiyRudenko/subrepo-host)
 and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 
-3. Add changes and `git commit -m "Add STR"`
-4. Add changes and `git commit -m "Add STR 4"`
-8. Add changes while in `subrepo-host`; commit under `subrepo-host`
-13. On remote (github):
+3) Add changes and `git commit -m "Add STR"`
+4) Add changes and `git commit -m "Add STR 4"`
+8) Add changes while in `subrepo-host`; commit under `subrepo-host`
+13) On remote (github):
     - create PR
     - merge PR to `master`
     - browse commits under `master`
@@ -24,3 +24,4 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 * ef38e97   Initial commit
 ```
 16) Add changes and `git commit -m "Add STR 16 (subrepoB only)"`
+17) Add changes and `git commit -m "Add STR 17 (subrepoB only)"`
