@@ -41,8 +41,10 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 
 (22) Add changes and `git commit -m "Add STR 22 (repoB only)"`
 
-(26) Add changes and `git commit -m "Add STR 26 (subrepoB only)"`
+(26) Add changes and `git commit -m "Add STR 26 (repoB only)"`
 
-(27) Add changes and `git commit -m "Add STR 27 (subrepoB only)"`
+(27) Add changes and `git commit -m "Add STR 27 (repoB only)"`
 
 (28) Add changes and `git commit -m "Add STR 28 (subrepoB only)"`
+
+(29) Add changes and `git commit -m "Add STR 29 (subrepoB only)"`
