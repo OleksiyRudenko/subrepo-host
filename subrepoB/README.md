@@ -23,3 +23,4 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 * 13a7b2a   Update README.md
 * ef38e97   Initial commit
 ```
+16) Add changes and `git commit -m "Add STR 16 (subrepoB only)"`
