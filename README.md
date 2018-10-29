@@ -25,3 +25,5 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 ```
 9. Add changes to main repo and `subrepoB/` (8)
    and `git commit -m "Add STR 6, 7, 8, 9 to the host repo and subrepoB/"`
+10. `git subrepo push subrepoB -b patch01`
+11. Add changes and `git commit -m "Add STR 10, 11"`
